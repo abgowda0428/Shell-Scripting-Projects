@@ -3,11 +3,7 @@
 ###################################
 #
 # Author : Abhishek Gowda HC
-#
 # Date : 14/08/2024
-#
-#####################################
-#
 # This is the Script For Running the Clock in The Terminal.
 #
 ######################################
