@@ -1,16 +1,9 @@
 #!/bin/bash
 #
-#
 ###########################################
 #
 # Author : Abhishek Gowda HC
-#
 # Date  : 14/08/2024
-#
-#
-###########################################
-#
-#
 # This is the script helps to Install Software In Multiple Flavors of OS
 #
 ###########################################
