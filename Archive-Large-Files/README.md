@@ -8,7 +8,7 @@ This Script Basically Run in given Directory . If it finds the files the files s
 
 * Provide the path of Directory.
 * Check the Directory is present or not.
-* create "Archive" folder if not already present.
+* Create "Archive" folder if not already present.
 * Finds the files with the size more then 20MB.
 * Compress each file.
 * Move the compressed files to "Archive" folder.
