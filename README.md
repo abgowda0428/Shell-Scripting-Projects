@@ -5,8 +5,11 @@ Welcome to my Shell Scripting Projects repository! 🚀 Here, you'll find severa
 ## Projects Included:
 
 1.**Digi-Clock** 🕒: A script that displays a digital clock in the terminal.
+
 2.**Disk Utilization** 💾: A tool for monitoring disk space usage.
+
 3.**Install Software** 💻: Automates software installation across systems.
+
 4.**Archive Large Files** 📦: Automates archiving for large files to optimize storage.
 
 ## Getting Started
