@@ -10,7 +10,7 @@ Welcome to the Software Installation Scripts repository! This directory contains
 
 ## Date
 
-- **18/08/2024**
+- **14/08/2024**
 
 ## Scripts
 
