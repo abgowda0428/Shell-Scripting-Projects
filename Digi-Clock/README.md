@@ -10,7 +10,7 @@ This directory contains shell scripts designed to create and manage a digital cl
 
 ## Date
 
-- **18/08/2024**
+- **14/08/2024**
 
 ## Scripts
 
