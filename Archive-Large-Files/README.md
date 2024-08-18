@@ -4,6 +4,14 @@
 
 This directory contains shell scripts designed to manage and archive large files on your system. These scripts help you automate the process of identifying, compressing, and managing large files to optimize disk space usage.
 
+## Author
+
+- **Abhishek Gowda H C**
+
+## Date
+
+- **18/08/2024**
+
 ## Scripts
 
 ### 1. Find Large Files
