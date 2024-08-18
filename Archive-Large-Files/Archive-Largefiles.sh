@@ -1,11 +1,13 @@
 #!/bin/bash
 
-###########################################################################################################################################################
+###########################################################################
 #
 # Author : Abhishek Gowda H C
 # Date : 16/08/2024
 #
-########### This Script runs in given Directory and finds files size more then 20MB .It compress those files and move to Archive Folder.#####################
+###########################################################################
+
+This Script runs in given Directory and finds files size more then 20MB .It compress those files and move to Archive Folder.
 
 #Variables
 
