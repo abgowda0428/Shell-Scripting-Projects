@@ -52,9 +52,6 @@ The script performs the following actions:
     ./your-script-name.sh
     ```
 
-## Script Details
-
-```bash
 
 
 
