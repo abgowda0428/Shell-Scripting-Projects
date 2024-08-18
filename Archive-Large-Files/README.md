@@ -10,7 +10,7 @@ This directory contains shell scripts designed to manage and archive large files
 
 ## Date
 
-- **18/08/2024**
+- **16/08/2024**
 
 ## Scripts
 
