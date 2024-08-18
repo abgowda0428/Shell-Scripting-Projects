@@ -12,6 +12,8 @@ Welcome to my Shell Scripting Projects repository! 🚀 Here, you'll find severa
 
 4.**Archive Large Files** 📦: Automates archiving for large files to optimize storage.
 
+5.**Resource Tracker** ⚡: This script will report the usage of AWS resources.
+
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/abgowda0428/Shell-Scripting-Projects.git`
 2. Navigate to a project folder and run the script: `bash script_name.sh`
