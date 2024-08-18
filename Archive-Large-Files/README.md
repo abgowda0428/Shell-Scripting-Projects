@@ -1,10 +1,22 @@
-This is Shell--Scripting--Project
+# Archive Large Files Scripts
 
-<<<<<<<<<<<<<<<<<<<<<<<<Archive--Large--Files>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Overview
 
-This Script Basically Run in given Directory . If it finds the files the files size more then 20MB or move it will compress those files and the files will be moved to "archive" folder.
+This directory contains shell scripts designed to manage and archive large files on your system. These scripts help you automate the process of identifying, compressing, and managing large files to optimize disk space usage.
 
- <<<<<<<<<<<<<<<<<<-----Steps For This Script----->>>>>>>>>>>>>>>>>>>>>
+## Scripts
+
+### 1. Find Large Files
+
+- **File**: `find_large_files.sh`
+
+- **Description**: Searches for large files on your system based on a specified size threshold.
+
+- **Usage**:
+  ```bash
+  ./find_large_files.sh
+
+## Steps For This Script
 
 * Provide the path of Directory.
 * Check the Directory is present or not.
