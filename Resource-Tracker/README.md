@@ -57,5 +57,4 @@ The script performs the following actions:
 ```bash
 
 
-Feel free to modify the placeholders like `your-username`, `your-repository`, and `your-script-name.sh` to fit your specific details.
 
