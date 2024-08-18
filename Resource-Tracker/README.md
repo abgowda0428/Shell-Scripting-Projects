@@ -52,10 +52,6 @@ The script performs the following actions:
     ./your-script-name.sh
     ```
 
-## Script Details
-
-```bash
 
 
-Feel free to modify the placeholders like `your-username`, `your-repository`, and `your-script-name.sh` to fit your specific details.
 
