@@ -10,7 +10,7 @@ This directory contains shell scripts for monitoring and managing disk usage on 
 
 ## Date
 
-- **18/08/2024**
+- **17/08/2024**
 
 ## Scripts
 
