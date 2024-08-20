@@ -11,13 +11,13 @@
 
 echo"Check the Disk Usage in Linux System"
 
-disk_size ='df -h | grep "/../.../../.." | awk '{pritn 5}' |cut -d '%' -f1'
+disk_size =$(df -h | grep "/../.../../.." | awk '{pritn $5}' |cut -d '%' -f1)
 
-if [disk_size -gt 80];
+if [ $disk_size -gt 80 ];
 then
-    echo"Disk is utilized more than 80%,Expand disk or delete files soon"
+    echo "Disk is utilized more than 80%,Expand disk or delete files soon"
 else 
-    echo"Enough disk is Available"
+    echo "Enough disk is Available"
 fi
 
 
