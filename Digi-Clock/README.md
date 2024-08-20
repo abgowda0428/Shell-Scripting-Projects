@@ -18,13 +18,13 @@ This directory contains shell scripts designed to create and manage a digital cl
 
 - **File**: `digital_clock.sh`
 
-- **Description**: Displays the current time in a digital clock format. This script continuously updates the time on the terminal.
+- **Description**: This script runs a digital clock in the terminal with colored text. Displays the current time in a digital clock format. This script continuously updates the time on the terminal.
 
 - **Usage**:
   ```bash
   ./digital_clock.sh
 
-## We can change the colour of Time in Terminal by using the following Variables.
+## You can change the clock’s color by replacing $Blue with $Red, $Green, or $Yellow in the echo command.
 
      *Red=$'\e[1;31m'
      *Green=$'\e[1;32m'
