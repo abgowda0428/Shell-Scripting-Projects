@@ -3,7 +3,7 @@
 ##########################################################################
 #
 # Author : Abhishek Gowda H C
-# Date : 18/08/2024
+# Date   : 18/08/2024
 #
 # This Script will report the usage of AWS Resources in your Project.
 # I have used only popular AWS Resources.
@@ -17,26 +17,18 @@
 
 set -x
 
-# list of EC2 Instances
-
-echo"Print the list of ec2 Instances"
-
+# List of EC2 Instances
+echo "Print the list of EC2 Instances"
 aws ec2 describe-instances
 
-# list of S3 buckets
-
-echo"Print the list of S3 buckets"
-
+# List of S3 buckets
+echo "Print the list of S3 buckets"
 aws s3 ls
 
-# list of lambda
-
-echo"Print list of lambda functions"
-
+# List of Lambda functions
+echo "Print the list of Lambda functions"
 aws lambda list-functions
 
-# list of IAM users
-
-echo"Print list of IAM Users"
-
+# List of IAM users
+echo "Print the list of IAM Users"
 aws iam list-users
